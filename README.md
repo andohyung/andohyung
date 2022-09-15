@@ -1,6 +1,6 @@
 ### Hi there 👋
-**이름**안도형
-**나이**24
+**이름** 안도형
+**나이** 24
 <!--
 **andohyung/andohyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
